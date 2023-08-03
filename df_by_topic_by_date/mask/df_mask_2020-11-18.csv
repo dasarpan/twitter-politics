@@ -1,0 +1,501 @@
+,Search,Tweet,Entered on,pos_score,neu_score,neg_score,compound_score,angry_score,fear_score,happy_score,sad_score,surprise_score
+0,mask,please wear mask encourage others ,2020-11-18,0.651,0.349,0.0,0.6808,0.0,0.0,0.0,1.0,0.0
+1,mask,put steel mask face armor heart ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+2,mask,nurse could agree wearing mask even people survive l ,2020-11-18,0.263,0.737,0.0,0.3612,0.0,0.0,0.0,1.0,0.0
+3,mask,would play mask long tackling shouting screaming players ,2020-11-18,0.218,0.545,0.236,-0.0516,0.0,0.6,0.0,0.2,0.2
+4,mask,omg bra face mask genius ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.33,0.67
+5,mask,wear mask new york times ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+6,mask,number 7 public letter supervalu law allow manager act gp dr fauci rte prof n ,2020-11-18,0.225,0.775,0.0,0.296,0.0,0.5,0.0,0.0,0.5
+7,mask,like forbes worth read lead ,2020-11-18,0.595,0.405,0.0,0.5267,0.0,1.0,0.0,0.0,0.0
+8,mask,true keep trying mask works 100 stays fog free matter high wear ,2020-11-18,0.444,0.556,0.0,0.7351,0.14,0.57,0.14,0.14,0.0
+9,mask,life liberty pursuit happiness government power ,2020-11-18,0.636,0.364,0.0,0.7906,0.25,0.5,0.25,0.0,0.0
+10,mask,mask life im ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+11,mask,unrealistic thing video game ever idea cat would wear mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.25,0.5
+12,mask,please wear mask tough enough seen wearing mask notice many people id ,2020-11-18,0.167,0.725,0.109,0.2023,0.0,0.4,0.0,0.6,0.0
+13,mask,probably kind assault raise question wh ,2020-11-18,0.304,0.357,0.339,-0.1027,0.0,0.67,0.33,0.0,0.0
+14,mask,chris cuomo aka meathead display lies amp hypocrisy called management ,2020-11-18,0.0,0.763,0.237,-0.4215,0.0,0.0,0.0,0.0,0.0
+15,mask,yet dont know wearing mask might kill stay away people wear mask ,2020-11-18,0.0,0.701,0.299,-0.6908,0.5,0.0,0.0,0.33,0.17
+16,mask,perk wearing mask able lay couch double chin knowing one see ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+17,mask,unite2 fight corona mera h ppump ,2020-11-18,0.0,0.606,0.394,-0.3818,0.0,0.0,0.0,1.0,0.0
+18,mask,new mrak show wants statewide mask mandates click listen ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+19,mask,fine whatever takes keep others safe covid wearing ,2020-11-18,0.439,0.561,0.0,0.5719,0.0,0.0,0.5,0.0,0.5
+20,mask,gross wear mask dude ,2020-11-18,0.0,0.492,0.508,-0.4767,0.0,0.0,0.0,1.0,0.0
+21,mask,ones always face work mask answer ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+22,mask,get anxiety sad easily get hurt easily dont really know really makes actually happy ,2020-11-18,0.351,0.32,0.328,0.144,0.0,0.2,0.1,0.4,0.3
+23,mask,actually thats voted office despite clinging power ,2020-11-18,0.0,0.0,0.0,0.0,0.5,0.25,0.0,0.0,0.25
+24,mask,gonna start enforcing saying wear mask one thing ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.33,0.67
+25,mask,cant wait day drive windsor pick grandma eat halal popeyes without mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.4,0.2,0.2,0.2
+26,mask,ah wonder airborne infectious disease wont go away seems comp ,2020-11-18,0.0,0.0,0.0,0.0,0.33,0.0,0.0,0.33,0.33
+27,mask,forgot one state wide mask mandate duceyfailedaz covid19 good nothing governor ,2020-11-18,0.225,0.775,0.0,0.4404,0.25,0.0,0.25,0.5,0.0
+28,mask,ask lib think 4860 participants completed study 42 people mask group ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.25,0.5
+29,mask,degree certainty may going back hair industry another shutdown occurs sa ,2020-11-18,0.167,0.833,0.0,0.25,0.0,0.75,0.0,0.0,0.25
+30,mask,honestly cant privilege rich inability wear mask keep others safe ,2020-11-18,0.448,0.275,0.277,0.4809,0.0,0.5,0.0,0.5,0.0
+31,mask,complaining mask tight flattening nose said forget look like ,2020-11-18,0.205,0.492,0.303,-0.0516,0.2,0.0,0.0,0.6,0.2
+32,mask,watch people wearing mask touch lot touch ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.2
+33,mask,sorry mask also yes like lavagirl younger sue ,2020-11-18,0.452,0.435,0.113,0.5994,0.0,0.0,0.0,1.0,0.0
+34,mask,mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+35,mask,dont think people understand ramifications second wave name 1 rise unemployment rates ,2020-11-18,0.0,0.775,0.225,-0.4404,0.0,0.67,0.0,0.0,0.33
+36,mask,cattle ranchers know herd immunity work mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+37,mask,dont want know mask ,2020-11-18,0.0,0.711,0.289,-0.0572,0.0,0.0,0.0,1.0,0.0
+38,mask,referring donations charity lack carin ,2020-11-18,0.346,0.37,0.284,0.128,0.0,0.0,1.0,0.0,0.0
+39,mask,𝑫rop mask andie shes denial much 𝓥ictor years shes still standing ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.67,0.0
+40,mask,im furious im livid lot immunocompromised people working us barel ,2020-11-18,0.0,0.526,0.474,-0.802,0.5,0.25,0.0,0.25,0.0
+41,mask,mean shouldnt blame mask cause shes lame theyre lame everyone thought cool ,2020-11-18,0.242,0.446,0.312,-0.3103,0.0,0.0,0.33,0.33,0.33
+42,mask,take strawman bullshit elsewhere 1 ,2020-11-18,0.0,0.441,0.559,-0.5859,0.0,0.5,0.0,0.5,0.0
+43,mask,filtermask make confident ,2020-11-18,0.615,0.385,0.0,0.4939,0.0,0.5,0.0,0.5,0.0
+44,mask,think mask badrestrictive try ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5
+45,mask,people know wear masks esp large events probably even intend g ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+46,mask,hard see places mask mandates since summer seei ,2020-11-18,0.0,0.833,0.167,-0.1027,0.25,0.25,0.25,0.25,0.0
+47,mask,want freedom live im saying snarky want people ,2020-11-18,0.576,0.424,0.0,0.7003,0.0,0.0,0.0,0.0,1.0
+48,mask,see feeling pressure liberty loving texans mask mandates go ,2020-11-18,0.55,0.312,0.138,0.765,0.0,0.33,0.33,0.33,0.0
+49,mask,ones saying body choice ones forcing people wear mask ,2020-11-18,0.0,0.0,0.0,0.0,0.17,0.5,0.0,0.17,0.17
+50,mask,mask wearer soon meet water loo ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+51,mask,locked since march especially 1 yo cant wear mask co ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+52,mask,constant parties 15 30 people every weekend nations uber lyft drop offs n ,2020-11-18,0.179,0.663,0.158,0.0828,0.0,0.0,0.0,0.0,0.0
+53,mask,nobody gonna wear mask public also nobody go ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+54,mask,mask stop breathing ,2020-11-18,0.0,0.476,0.524,-0.296,0.0,0.5,0.0,0.5,0.0
+55,mask,horseshit one wants go resto bar gov made experience horrible ,2020-11-18,0.0,0.72,0.28,-0.5423,0.0,0.5,0.0,0.5,0.0
+56,mask,facts lockdowns proven effective stopping ,2020-11-18,0.403,0.39,0.208,0.3612,0.0,1.0,0.0,0.0,0.0
+57,mask,wear damn mask idiot ,2020-11-18,0.0,0.25,0.75,-0.7184,0.0,0.0,0.0,1.0,0.0
+58,mask,yea dont live nola dont deal sampling world descending french quarter ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+59,mask,scene scene end removed mask scared shit kid ,2020-11-18,0.0,0.48,0.52,-0.7579,0.0,0.0,0.25,0.5,0.25
+60,mask,new mask shirt head laughing loud ,2020-11-18,0.39,0.61,0.0,0.4939,0.0,0.5,0.0,0.5,0.0
+61,mask,pro choice force us wear mask everyone hollywood stupid ,2020-11-18,0.0,0.702,0.298,-0.5267,0.33,0.33,0.0,0.33,0.0
+62,mask,wear mask please help us help ,2020-11-18,0.72,0.28,0.0,0.7717,0.0,0.0,0.0,0.5,0.5
+63,mask,seen mask mandate described draconian straight communism tonight anyways episode ,2020-11-18,0.174,0.826,0.0,0.2263,0.0,0.0,0.0,1.0,0.0
+64,mask,thats lie mask mandates reducing rates liars gonna lie ,2020-11-18,0.0,0.702,0.298,-0.5267,0.0,0.0,0.0,1.0,0.0
+65,mask,keep attacking congress darbari journalist like rohini remove mask ,2020-11-18,0.2,0.56,0.24,-0.128,0.0,0.0,0.0,0.5,0.5
+66,mask,seen figure 80 compliance mask use many states reporting 30 othe ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+67,mask,ha woman video mask covering mouth nose good aroun ,2020-11-18,0.431,0.569,0.0,0.6486,0.0,0.25,0.25,0.5,0.0
+68,mask,surprise reverses course week statewide mask mandate putting student sports ,2020-11-18,0.189,0.811,0.0,0.2732,0.0,0.0,0.0,0.75,0.25
+69,mask,sayin defying mask mandates along ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+70,mask,never remove mask work ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+71,mask,sucks probably actually covid 19 also context age comorbidity 00 ,2020-11-18,0.0,0.783,0.217,-0.3612,0.25,0.5,0.0,0.0,0.25
+72,mask,study seems conclude masks arent effective population ,2020-11-18,0.0,0.701,0.299,-0.3724,0.0,0.0,0.0,1.0,0.0
+73,mask,know else health consequences dying grow wear mask wash hands stay away cr ,2020-11-18,0.0,0.0,0.0,0.0,0.4,0.4,0.0,0.2,0.0
+74,mask,trial able assess claim mask protects know ,2020-11-18,0.277,0.723,0.0,0.3182,0.0,0.0,0.33,0.33,0.33
+75,mask,hey texas lets take care wear mask stay home right easter gonna epic ,2020-11-18,0.211,0.789,0.0,0.4939,0.17,0.17,0.0,0.5,0.17
+76,mask,due respect sorrowful another needless death wear mask time ,2020-11-18,0.191,0.37,0.438,-0.6124,0.2,0.2,0.2,0.4,0.0
+77,mask,epidemic car crashes covid wearing seat ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5
+78,mask,mask halt covid 19 spread africa using ethiopia case study proposes masks mandate cont ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+79,mask,beach florida without mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+80,mask,go straight hxll bs burn mask ,2020-11-18,0.275,0.725,0.0,0.2263,0.0,0.0,0.0,1.0,0.0
+81,mask,make mask veil ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+82,mask,wisconsin gov tony evers extends mask mandate 2021 via breitbart news ,2020-11-18,0.13,0.87,0.0,0.128,0.0,0.0,0.0,1.0,0.0
+83,mask,agree need better believe would crazy lockdown everything states runni ,2020-11-18,0.365,0.473,0.162,0.4588,0.0,0.4,0.0,0.4,0.2
+84,mask,wore mask 2 hours ended strep throat ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+85,mask,stay home reason glad restaurants limited take immediate future w ,2020-11-18,0.252,0.588,0.16,0.2732,0.2,0.0,0.2,0.4,0.2
+86,mask,mask guys ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+87,mask,south florida bulls green chrome mask officially licensed xp authentic helmet chicagobulls ,2020-11-18,0.191,0.809,0.0,0.3818,0.0,0.0,0.0,1.0,0.0
+88,mask,affect old frail affects us risk getting sick please ,2020-11-18,0.168,0.438,0.394,-0.4767,0.0,0.0,0.0,1.0,0.0
+89,mask,whenever see people wearing mask public feel like pull mask sneeze soft ,2020-11-18,0.185,0.815,0.0,0.3612,0.0,0.0,0.0,1.0,0.0
+90,mask,lightning deals bildos non woven fabric masks nose pin 3 layer pollution face dust surgical disposable ,2020-11-18,0.0,0.0,0.0,0.0,0.2,0.6,0.0,0.2,0.0
+91,mask,sincerely hope senators staffers journalists wear mask ,2020-11-18,0.545,0.455,0.0,0.7184,0.0,0.67,0.0,0.33,0.0
+92,mask,wont one person businesses amp politicians shoving mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+93,mask,like crush crushed crushhe leave mask naharrh wahala really like ,2020-11-18,0.321,0.321,0.359,0.1027,0.0,0.0,0.0,0.5,0.5
+94,mask,abiy ahmed loves tigrai bcs cut electricity cut phoninternet service cut budget cut safetynet cut mask child ,2020-11-18,0.147,0.437,0.417,-0.5859,0.0,0.0,0.5,0.5,0.0
+95,mask,nice chicken stitt store owners call police non masks wearers government would rather pit people ,2020-11-18,0.167,0.833,0.0,0.4215,0.0,0.5,0.17,0.33,0.0
+96,mask,son dressed pink unicorn halloween wears ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+97,mask,went back work may 3rd waitress mask continuous sanitation ive zero concern contract ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.67,0.0,0.33,0.0
+98,mask,working pandemic horrible silver lining get interact person multiple p ,2020-11-18,0.0,0.696,0.304,-0.5423,0.0,1.0,0.0,0.0,0.0
+99,mask,im sick seeing assholes wearing mask public hand mf fucking fines ,2020-11-18,0.175,0.437,0.388,-0.5994,0.0,0.0,0.33,0.67,0.0
+100,mask,pro choice believe people right wear mask body choice derp derp ,2020-11-18,0.0,0.0,0.0,0.0,0.5,0.25,0.0,0.25,0.0
+101,mask,saw guy hiking alone mask last weekend missing good ole east tennessee mountain ,2020-11-18,0.17,0.585,0.246,-0.0772,0.0,0.0,0.25,0.75,0.0
+102,mask,btw jim_ jordan supposed wear mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+103,mask,last checked maricopa county covers city mask mandate ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+104,mask,tell em lights mask creep silent weezy ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+105,mask,wonder doctors nurses wear mask fact theyve using masks long time ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.5,0.25
+106,mask,w0w another border state mask mandate v cool idea pete ,2020-11-18,0.223,0.777,0.0,0.3182,0.0,0.0,0.33,0.67,0.0
+107,mask,son musician essentially hippie also doubtful negativity covid keep ,2020-11-18,0.0,0.551,0.449,-0.6908,0.0,1.0,0.0,0.0,0.0
+108,mask,reasons politicians need put rallies campaigns talk covid health guidelines wash hands ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+109,mask,true colors go birds feather swarming together hate expletive spewi ,2020-11-18,0.193,0.552,0.255,-0.2263,0.25,0.0,0.0,0.5,0.25
+110,mask,hi thank faa ada jual pearl mask extender hook limited quantity specially desig ,2020-11-18,0.162,0.714,0.123,0.1531,0.0,0.0,0.0,0.5,0.5
+111,mask,im fan told really isnt single good excuse wear mask ,2020-11-18,0.174,0.531,0.295,-0.151,0.0,0.0,0.2,0.6,0.2
+112,mask,watch mask fight erupt senate floor ,2020-11-18,0.0,0.658,0.342,-0.3818,0.2,0.0,0.0,0.4,0.4
+113,mask,crow eaters love guys hold coming across victoria still coming ,2020-11-18,0.318,0.682,0.0,0.6369,0.0,0.0,0.33,0.0,0.67
+114,mask,heres says 1 town people dont wear masks distance 2 wearin ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.67,0.33
+115,mask,way lied get tun mask ,2020-11-18,0.0,0.606,0.394,-0.3818,0.0,0.0,0.0,1.0,0.0
+116,mask,earphone mask amp spectacle ghatlyavar ears ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+117,mask,buy amazon gt ,2020-11-18,0.792,0.208,0.0,0.4215,0.0,0.0,0.0,0.0,0.0
+118,mask,pre order black red nb drinks mask available shipping november 27 ,2020-11-18,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.0
+119,mask,wtf wheres mask pandemic isnt ,2020-11-18,0.0,0.513,0.487,-0.5859,0.0,0.0,0.0,1.0,0.0
+120,mask,hope take ur mask told liberals think russia limbaugh ,2020-11-18,0.266,0.734,0.0,0.4404,0.0,0.25,0.0,0.5,0.25
+121,mask,seem much respect anyone anything time especially whe ,2020-11-18,0.307,0.693,0.0,0.4767,0.0,0.0,0.5,0.5,0.0
+122,mask,richard mack untouchable bill rights via oathofoffice pissed ,2020-11-18,0.0,0.625,0.375,-0.6369,0.5,0.5,0.0,0.0,0.0
+123,mask,mask glasses annoying combo blind ,2020-11-18,0.0,0.357,0.643,-0.6597,0.0,0.0,0.0,1.0,0.0
+124,mask,kansas governor issues new mask mandate ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+125,mask,amazon nice shields also wear goggles use n95 masks ,2020-11-18,0.391,0.609,0.0,0.5423,0.0,0.33,0.33,0.33,0.0
+126,mask,buy amazon gt ,2020-11-18,0.792,0.208,0.0,0.4215,0.0,0.0,0.0,0.0,0.0
+127,mask,mean obvious comment ratm teaming biden ilk big parts ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+128,mask,see wrote kids wearing biden masks jot political school ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0
+129,mask,every time sneeze inside mask work die little inside ,2020-11-18,0.0,0.672,0.328,-0.5994,0.0,0.5,0.0,0.5,0.0
+130,mask,seriously 1st person yell wearing mask ,2020-11-18,0.0,0.746,0.254,-0.1779,0.0,0.0,0.0,0.5,0.5
+131,mask,mask watch mask fight erupt senate floor ,2020-11-18,0.0,0.698,0.302,-0.3818,0.17,0.0,0.0,0.5,0.33
+132,mask,mask count laugh ,2020-11-18,0.643,0.357,0.0,0.5574,0.0,0.5,0.0,0.5,0.0
+133,mask,know dr henry tried fudge say province wide mask order ,2020-11-18,0.0,0.0,0.0,0.0,0.33,0.0,0.0,0.33,0.33
+134,mask,,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+135,mask,gov newsom knighted week medical lobby suiters clearly picture displays ,2020-11-18,0.322,0.678,0.0,0.4215,0.0,0.0,0.0,0.0,0.0
+136,mask,realize someone arrested sentenced prison months fo ,2020-11-18,0.0,0.348,0.652,-0.7579,0.0,0.0,0.0,0.0,0.0
+137,mask,finding coworkers werent last season ig see look like mask new fav thing ,2020-11-18,0.333,0.667,0.0,0.6705,0.0,0.0,0.0,0.5,0.5
+138,mask,defund police two things dignified good cops leave force cronies ,2020-11-18,0.427,0.49,0.084,0.7096,0.0,0.33,0.33,0.0,0.33
+139,mask,approve concept much ok let make evil superman twin wears outfit bu ,2020-11-18,0.133,0.602,0.265,-0.4939,0.0,0.0,0.33,0.67,0.0
+140,mask,aloe plant week face working bet wont put another mask shit ever ,2020-11-18,0.0,0.753,0.247,-0.5574,0.0,0.33,0.0,0.33,0.33
+141,mask,damnanother one believes wearing mask answer live peru ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+142,mask,never thought would say many europeans courage americans regathe mask mandates lock ,2020-11-18,0.225,0.775,0.0,0.4939,0.0,0.4,0.0,0.2,0.4
+143,mask,im freaking dyingg pulled mask pls soul gone ,2020-11-18,0.129,0.594,0.277,-0.3612,0.0,0.33,0.0,0.33,0.33
+144,mask,youre using data influenza transmission todetermine efficacy mask another pathogen thats silly best ,2020-11-18,0.325,0.675,0.0,0.6486,0.0,0.25,0.0,0.5,0.25
+145,mask,strathmore alberta wear mask stores go started days ago get ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0
+146,mask,unfortunately small businesses seemingly enforced mask ordinance ,2020-11-18,0.0,0.714,0.286,-0.34,0.0,0.33,0.0,0.67,0.0
+147,mask,seen amp election day slits mask required ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0
+148,mask,excuse shameless self promotion made msu mask design tell ur friends r band ,2020-11-18,0.278,0.57,0.152,0.25,0.0,0.25,0.12,0.5,0.12
+149,mask,telling girl 7 eleven love buy beer mask following rules ,2020-11-18,0.344,0.656,0.0,0.6369,0.0,0.2,0.2,0.4,0.2
+150,mask,yeah ok currant mean get co2 poisoning ,2020-11-18,0.361,0.328,0.311,-0.1027,0.0,0.0,0.0,0.0,0.0
+151,mask,run cvs tonight overheard guy call cashier fing bitch asked wear mask ,2020-11-18,0.0,0.743,0.257,-0.5859,0.0,0.33,0.0,0.33,0.33
+152,mask,sowhat plan everyone sewage treatment plant home sick covid water stops ,2020-11-18,0.0,0.647,0.353,-0.5994,0.0,0.0,0.0,1.0,0.0
+153,mask,losing mask new losing student id bi weekly costs 10 replace ,2020-11-18,0.0,0.634,0.366,-0.6369,0.0,0.2,0.0,0.6,0.2
+154,mask,im heavyweight upset theres 2 mask elimination tonight group b 4 strong singers ,2020-11-18,0.237,0.576,0.187,0.1779,0.0,0.25,0.25,0.25,0.25
+155,mask,hm feminist log h ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+156,mask,wear mask slow spread covid 19 protect family friends neighbours keep schools open ke ,2020-11-18,0.322,0.678,0.0,0.6908,0.0,0.33,0.33,0.17,0.17
+157,mask,still people wearing like ive literally havent see anybody wearing mask since like june laughing loud ,2020-11-18,0.387,0.613,0.0,0.802,0.0,0.0,0.0,1.0,0.0
+158,mask,translated several absolutist headlines sweden dont mask mandate seems irresponsible ,2020-11-18,0.0,0.756,0.244,-0.4404,0.0,0.0,0.0,1.0,0.0
+159,mask,annoying thing black popular color face masks hard tell distance ,2020-11-18,0.201,0.504,0.295,-0.0772,0.17,0.0,0.0,0.67,0.17
+160,mask,everyone enjoying mask today ,2020-11-18,0.531,0.469,0.0,0.5267,0.0,0.0,0.5,0.5,0.0
+161,mask,acne tea tree facial bar face mask turmeric uv shield complexion tone boonga sunscreen ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.67,0.0,0.33,0.0
+162,mask,legislator throwing fit fb twitter governor today scroll timelines ,2020-11-18,0.238,0.762,0.0,0.3612,0.0,0.0,0.5,0.5,0.0
+163,mask,said decades mother nature every culls herd covid19 seems round ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.33,0.33
+164,mask,watch mask fight erupt senate floor ,2020-11-18,0.0,0.658,0.342,-0.3818,0.2,0.0,0.0,0.4,0.4
+165,mask,yeah dont trip got mask ,2020-11-18,0.355,0.645,0.0,0.296,0.0,0.0,0.0,1.0,0.0
+166,mask,god bless comfort keep wearing mask ,2020-11-18,0.712,0.288,0.0,0.7506,0.0,0.0,0.25,0.5,0.25
+167,mask,florida strange coast 15 miles inland florida everyone knows tv ,2020-11-18,0.0,0.833,0.167,-0.2023,0.0,0.0,0.0,0.0,0.0
+168,mask,thats experience im well beyond going anywhere mask crucial saf ,2020-11-18,0.189,0.811,0.0,0.2732,0.0,0.67,0.0,0.33,0.0
+169,mask,mm disagree people instagram dont care actually implementing rules p ,2020-11-18,0.0,0.572,0.428,-0.6402,0.0,0.5,0.0,0.0,0.5
+170,mask,wearing mask normal weather wearing mask florida winter weather ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0
+171,mask,watch mask fight erupt senate floor ,2020-11-18,0.0,0.658,0.342,-0.3818,0.2,0.0,0.0,0.4,0.4
+172,mask,mask come ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+173,mask,wearing dirty reused mask absolutely dangerous covid look ,2020-11-18,0.0,0.488,0.512,-0.7425,0.25,0.5,0.0,0.25,0.0
+174,mask,allowed saxual pandemic cause would take ,2020-11-18,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+175,mask,trying find n95 mask buy ca seem find think kn95 mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.75,0.25
+176,mask,amp aint wearing mask shes drawing attention mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.67,0.0
+177,mask,mask supposed help stop spread working world ,2020-11-18,0.273,0.505,0.222,0.128,0.0,0.6,0.0,0.2,0.2
+178,mask,watch mask fight erupt senate floor ,2020-11-18,0.0,0.658,0.342,-0.3818,0.2,0.0,0.0,0.4,0.4
+179,mask,hell trees cut paper towels toilet paper needed mention mask ,2020-11-18,0.0,0.544,0.456,-0.7717,0.0,0.0,0.0,1.0,0.0
+180,mask,someone surely got joke head wrote made laugh e ,2020-11-18,0.635,0.365,0.0,0.8271,0.0,0.33,0.33,0.33,0.0
+181,mask,mean jim jordan mouth breather look way lowlife wearing mask ,2020-11-18,0.0,0.783,0.217,-0.3612,0.0,0.0,0.0,1.0,0.0
+182,mask,wrong cant eat mask ,2020-11-18,0.0,0.492,0.508,-0.4767,0.0,0.5,0.0,0.5,0.0
+183,mask,mf mask hurtin mfn ear ion like ,2020-11-18,0.294,0.706,0.0,0.3612,0.0,0.0,0.0,1.0,0.0
+184,mask,one friend marriage nov 21 entire family tested covid positive sunday amp lost father today ,2020-11-18,0.322,0.569,0.109,0.6705,0.0,0.25,0.25,0.25,0.25
+185,mask,months 8 months since province first went lockdown almo ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5
+186,mask,get art printed awesome products support redbubble r band findyourthing redbubble ,2020-11-18,0.459,0.541,0.0,0.7783,0.0,0.5,0.0,0.0,0.5
+187,mask,mine get washed every time laundry aint got time walking around stale mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+188,mask,really every state mask mandate spread like ones without ,2020-11-18,0.238,0.762,0.0,0.3612,0.0,0.4,0.0,0.4,0.2
+189,mask,got tickets didnt like scott walker ampamp racine man charged state mask 15 year racine br ,2020-11-18,0.0,0.782,0.218,-0.4423,0.0,0.0,0.33,0.67,0.0
+190,mask,wear mask work home logic say ppl would infected 8 days ,2020-11-18,0.0,0.738,0.262,-0.4939,0.0,0.33,0.17,0.33,0.17
+191,mask,want makeup work rubs mask ,2020-11-18,0.245,0.755,0.0,0.0772,0.33,0.33,0.0,0.33,0.0
+192,mask,maturity better wise sorry later saying sab khul gaya hai sh ,2020-11-18,0.392,0.523,0.085,0.6908,0.0,0.0,0.0,0.33,0.67
+193,mask,carpet ceramic towel sock mask tie ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+194,mask,hi thank faa ada jual pearl mask extender hook limited quantity specially design ,2020-11-18,0.162,0.714,0.123,0.1531,0.0,0.0,0.0,0.33,0.67
+195,mask,quick anyone pic karl mask ,2020-11-18,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.0
+196,mask,think issuing mask mandate closing businesses protect people free gu ,2020-11-18,0.424,0.576,0.0,0.7096,0.0,0.17,0.5,0.17,0.17
+197,mask,call balance trish science mask become ultimate symbolic totem ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.67,0.0,0.33,0.0
+198,mask,dr bonnie henry says interview bc provincial mask mandate que ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5
+199,mask,looks like youre wearing mask photo hiding face ,2020-11-18,0.234,0.561,0.206,0.0772,0.5,0.0,0.0,0.5,0.0
+200,mask,watch amitabh bachchan swasthya mantra wear mask wash hands regularly avoid crowded places log ,2020-11-18,0.0,0.855,0.145,-0.296,0.0,0.5,0.0,0.25,0.25
+201,mask,mt friend mn well scary disease clue ,2020-11-18,0.424,0.32,0.256,0.2732,0.0,0.33,0.33,0.0,0.33
+202,mask,dont owe people around wear mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+203,mask,wear mask sleep ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+204,mask,follow back bro ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+205,mask,guys miss watch amitabh bachchan swasthya mantra wear mask always wash hands regularly log ,2020-11-18,0.0,0.89,0.11,-0.1531,0.0,0.2,0.0,0.6,0.2
+206,mask,like sometimes ,2020-11-18,0.714,0.286,0.0,0.3612,0.0,0.0,0.0,0.0,0.0
+207,mask,face coverings required city glenpool anyone 10 years older jan 31 2021 e ,2020-11-18,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+208,mask,feel mask works makes people feel better ,2020-11-18,0.326,0.674,0.0,0.4404,0.0,0.25,0.0,0.5,0.25
+209,mask,soo tweet ascertained dont wear mas ,2020-11-18,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+210,mask,mask shie ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+211,mask,day late dollar short done job done months ago horrible governor iowa gov ,2020-11-18,0.0,0.774,0.226,-0.5423,0.2,0.4,0.2,0.2,0.0
+212,mask,hey everyone miss watch amitabh bachchan swasthya mantra wear mask log ,2020-11-18,0.0,0.862,0.138,-0.1531,0.0,0.0,0.0,0.5,0.5
+213,mask,exactly floridians apparently mask fatigue morons ,2020-11-18,0.0,0.482,0.518,-0.5106,0.0,0.0,0.0,1.0,0.0
+214,mask,anyone wearing mask victoria dc ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+215,mask,gym youre wearing mask correctly ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+216,mask,cousins organizing donation drive help victims typhoon ulysses accepting donations ,2020-11-18,0.363,0.479,0.158,0.4588,0.0,0.67,0.0,0.0,0.33
+217,mask,action figure comes removable mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.33,0.33
+218,mask,would advise ignoring public health measures someone unfit job please wear mask ,2020-11-18,0.153,0.667,0.18,-0.1027,0.0,0.6,0.0,0.4,0.0
+219,mask,see post raise ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+220,mask,probably best mask game ,2020-11-18,0.583,0.417,0.0,0.6369,0.0,0.33,0.0,0.33,0.33
+221,mask,sick nanny state liberals telling us ca body choice ,2020-11-18,0.0,0.708,0.292,-0.5106,0.25,0.0,0.0,0.75,0.0
+222,mask,know want spray water drill im working cause im boiling mask ,2020-11-18,0.115,0.885,0.0,0.0772,0.0,0.25,0.0,0.75,0.0
+223,mask,see people wearing masks every day catch spread ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.33,0.33,0.33,0.0
+224,mask,people refuse wear mask public people think political correctness outrageous ,2020-11-18,0.0,0.606,0.394,-0.6369,0.0,0.0,0.0,0.5,0.5
+225,mask,read article mask protects mask protects ,2020-11-18,0.535,0.465,0.0,0.5574,0.0,0.0,0.5,0.5,0.0
+226,mask,vaccinated preclude spreading virus mask protects others ,2020-11-18,0.277,0.723,0.0,0.3182,0.0,0.33,0.33,0.33,0.0
+227,mask,important days gyss forget always wear mask swasthya mantra ,2020-11-18,0.168,0.654,0.178,-0.0258,0.2,0.0,0.4,0.4,0.0
+228,mask,love guys make irrelevant even watch episode ,2020-11-18,0.412,0.588,0.0,0.6369,0.0,0.0,0.25,0.5,0.25
+229,mask,dororo keroro need confess something keroro dororo dororo dororo takes mask reveal small duck beak ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5
+230,mask,overdose positivity love light become mask youre wearing deep ,2020-11-18,0.517,0.483,0.0,0.8176,0.0,0.0,0.5,0.5,0.0
+231,mask,mask mandate thats see goes required talk explain science behind ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.67,0.0
+232,mask,wear mask laughing loud ,2020-11-18,0.516,0.484,0.0,0.4939,0.0,0.0,0.0,1.0,0.0
+233,mask,social distance wearing face mask public place washing hands swasthya mantra ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.75,0.0,0.25,0.0
+234,mask,must read gaiter style mask friends including husband fil cloth surgical masks way ,2020-11-18,0.205,0.795,0.0,0.4767,0.0,0.0,0.33,0.67,0.0
+235,mask,inslee stated 97 mask compliance state silly cloth masks eff ,2020-11-18,0.109,0.891,0.0,0.0258,0.17,0.17,0.0,0.67,0.0
+236,mask,people selfish would even wear mask save person schooling claimed ,2020-11-18,0.224,0.559,0.217,0.0258,0.0,0.33,0.0,0.33,0.33
+237,mask,story broken arrow illustrates two elected city officials saying hospitalizations going ,2020-11-18,0.0,0.763,0.237,-0.4767,0.0,0.33,0.0,0.0,0.67
+238,mask,get wear damn mask ,2020-11-18,0.0,0.526,0.474,-0.4019,0.0,0.0,0.0,1.0,0.0
+239,mask,continue run mask done ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+240,mask,know really hope scotus take abortions away since know al ,2020-11-18,0.262,0.738,0.0,0.4927,0.33,0.33,0.0,0.0,0.33
+241,mask,humble wear mask senate floor people around families notice h ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.25,0.5
+242,mask,art store today man went apeshit clerk asked pull mask slammed stuff around ,2020-11-18,0.0,0.863,0.137,-0.2263,0.25,0.5,0.0,0.25,0.0
+243,mask,still mask requirement indoor dining shopping ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+244,mask,guess getting hbo max going wear mask two hours theater ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.33,0.33
+245,mask,california politicians born immunity covid fact serfs must wear mask though ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+246,mask,ive tried go mask feelings hold anything cant ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+247,mask,n95 mask needs snug skin effective wearing sandwich major mi ,2020-11-18,0.256,0.744,0.0,0.4767,0.0,0.5,0.0,0.5,0.0
+248,mask,wearing mask face chin ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+249,mask,asked put mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.67,0.0
+250,mask,simply fuck anti mask absolutely simply ,2020-11-18,0.0,0.408,0.592,-0.7003,0.0,0.33,0.33,0.33,0.0
+251,mask,wear mask post story click ad atta girl ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5
+252,mask,likely wo wearing mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+253,mask,effectiveness adding mask recommendation public health measures prevent sars co v 2 infection da ,2020-11-18,0.091,0.909,0.0,0.0258,0.0,0.0,0.0,1.0,0.0
+254,mask,safety employees customers top priority us wearing mask impor ,2020-11-18,0.397,0.603,0.0,0.5574,0.0,0.33,0.0,0.33,0.33
+255,mask,always wash hands meals using toilets watch amitabh bachchan swasthya mantra wear mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.5,0.25
+256,mask,imagining mask teeth ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5
+257,mask,logic wearing mask protects person wearing mask care someone else ,2020-11-18,0.407,0.593,0.0,0.6705,0.0,0.0,0.33,0.67,0.0
+258,mask,sure back april need wear mask ,2020-11-18,0.315,0.685,0.0,0.3182,0.0,0.5,0.0,0.5,0.0
+259,mask,ca say love neighbor refuse wear mask help protect ,2020-11-18,0.569,0.299,0.132,0.8074,0.0,0.0,0.33,0.33,0.33
+260,mask,watching showtime module must go jane stay safe everyone make sure wear mask ,2020-11-18,0.321,0.679,0.0,0.6369,0.2,0.2,0.0,0.4,0.2
+261,mask,good mask designed rn tested effective fau lab ,2020-11-18,0.5,0.5,0.0,0.7184,0.0,0.0,0.33,0.33,0.33
+262,mask,science statistics none still didnt wear mask flu killed tens th ,2020-11-18,0.139,0.574,0.287,-0.5132,0.0,0.0,0.0,0.5,0.5
+263,mask,wash hands meals using toilets watch amitabh bachchan swasthya mantra wear mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.33,0.33
+264,mask,super talented cosplay designer best cyberpunk inspired oni mask seen ,2020-11-18,0.709,0.291,0.0,0.9393,0.0,0.0,0.33,0.33,0.33
+265,mask,much destruction republicans done ignoring science wear mask republican horror show ,2020-11-18,0.0,0.442,0.558,-0.8779,0.0,0.0,0.0,0.5,0.5
+266,mask,dumbfounded refusal wear mask simplest thing could barely ,2020-11-18,0.0,0.729,0.271,-0.3818,0.0,0.0,0.0,0.5,0.5
+267,mask,melbourne australia strict lockdown numbers high 750 ,2020-11-18,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+268,mask,carcassonne without mask street irregular situation france finding languedoc still tu ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.67,0.0
+269,mask,ppl promote wearing mask ,2020-11-18,0.464,0.536,0.0,0.3818,0.0,0.0,0.0,1.0,0.0
+270,mask,mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+271,mask,think mask makes look moody actually ,2020-11-18,0.0,0.667,0.333,-0.3612,0.0,0.0,0.0,0.6,0.4
+272,mask,c 19 us forever going go away want wear mask rest life go ,2020-11-18,0.106,0.894,0.0,0.0772,0.25,0.5,0.0,0.25,0.0
+273,mask,mask bro ayalaan doctor ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+274,mask,explain driver knocking door adelaide delivering parcel handing wearing mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+275,mask,brandon smith time americans rebel lockdowns mask mandates amp forced vaccination ,2020-11-18,0.0,0.662,0.338,-0.5574,0.33,0.33,0.0,0.33,0.0
+276,mask,get regular blood titers done zillions vaccinations get done ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+277,mask,watch nfl put permanent mask goodie dell going flames ,2020-11-18,0.0,0.0,0.0,0.0,0.2,0.2,0.0,0.4,0.2
+278,mask,pro choice force people wear mask ,2020-11-18,0.0,0.0,0.0,0.0,0.33,0.33,0.0,0.33,0.0
+279,mask,looking gorgeous ever even mask like mask dress ,2020-11-18,0.52,0.48,0.0,0.7579,0.0,0.0,0.25,0.5,0.25
+280,mask,begins legend zelda majora mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+281,mask,2020 man chillax mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+282,mask,swasthya mantra amitabh bachchan sir told good things wear mask stay healthy ,2020-11-18,0.359,0.641,0.0,0.6808,0.2,0.0,0.2,0.4,0.2
+283,mask,mask pain hold back tears ,2020-11-18,0.0,0.366,0.634,-0.6369,0.0,0.0,0.0,1.0,0.0
+284,mask,died made boss hell politicize mask know curr ,2020-11-18,0.0,0.423,0.577,-0.8481,0.0,0.33,0.0,0.67,0.0
+285,mask,thread certainly something nothing bunch dirtbags going mask antisemitism ,2020-11-18,0.231,0.769,0.0,0.34,0.0,0.5,0.0,0.5,0.0
+286,mask,wheres mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+287,mask,threat psa dont seem like mask wearing type ,2020-11-18,0.0,0.521,0.479,-0.6715,0.0,0.5,0.0,0.5,0.0
+288,mask,lots evidence testing show seatbelts work evidence mask wearing ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.6,0.0,0.4,0.0
+289,mask,watch amitabh bachchan swasthya mantra wear mask wash hands regularly avoid crowded places log ,2020-11-18,0.0,0.855,0.145,-0.296,0.0,0.5,0.0,0.25,0.25
+290,mask,mask go figure ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+291,mask,psa wear mask use condoms ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+292,mask,ca run antifa footing hopped neo segregationism hating everyone lives subur ,2020-11-18,0.0,0.752,0.248,-0.5106,0.0,0.0,0.0,1.0,0.0
+293,mask,know everyone knows wear mask wash hands regularly avoid crowded places swasthya mantra log ,2020-11-18,0.0,0.855,0.145,-0.296,0.0,0.67,0.0,0.33,0.0
+294,mask,recommendation weak information based lacked social accountability appeal social identity ,2020-11-18,0.0,0.756,0.244,-0.4404,0.0,0.5,0.0,0.5,0.0
+295,mask,study powered find effect recommending masks covid risk mask wearing covid risk ,2020-11-18,0.0,0.704,0.296,-0.4939,0.25,0.0,0.0,0.5,0.25
+296,mask,first let clear encouragement design regular rct means causal effect ,2020-11-18,0.403,0.597,0.0,0.6597,0.0,0.0,0.0,0.33,0.67
+297,mask,count wearing mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+298,mask,going wear mask quite best virus effective mask best environment ,2020-11-18,0.638,0.362,0.0,0.9239,0.0,0.33,0.0,0.33,0.33
+299,mask,paper make us go back drawing board rather throw hands give mask policies ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.67,0.0,0.33,0.0
+300,mask,also coughed hand gross covid practices one wearing mask masks ar ,2020-11-18,0.209,0.588,0.203,0.0258,0.0,0.0,0.0,1.0,0.0
+301,mask,try shit shooting back fuck mask character broken ,2020-11-18,0.0,0.329,0.671,-0.8807,0.0,0.2,0.2,0.2,0.4
+302,mask,work special ed students hearing loss one ear extremely difficult ,2020-11-18,0.183,0.473,0.344,-0.3384,0.0,0.5,0.0,0.0,0.5
+303,mask,anyone else concerned mask gatherings nba draft ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+304,mask,please let us reach blue bump red zone charts please people fatigued ,2020-11-18,0.354,0.497,0.149,0.3182,0.17,0.0,0.0,0.67,0.17
+305,mask,true thing mask less man typical anti mask guy screaming rights ,2020-11-18,0.181,0.518,0.3,-0.2111,0.0,0.25,0.0,0.5,0.25
+306,mask,bama mask mandate enforced anyone like laugh ,2020-11-18,0.55,0.45,0.0,0.7269,0.0,0.0,0.0,1.0,0.0
+307,mask,free delivery bodypositivity plusfashion plussizebeauty model new single layer black embroidery lace adjustab ,2020-11-18,0.216,0.784,0.0,0.5106,0.0,0.5,0.5,0.0,0.0
+308,mask,5 moreover polluted capital facing severe surge coronavirus pandemic ca ,2020-11-18,0.0,0.556,0.444,-0.6808,0.33,0.33,0.0,0.33,0.0
+309,mask,seen though graphene mask kills covid ,2020-11-18,0.0,0.588,0.412,-0.5423,0.0,0.0,0.0,0.67,0.33
+310,mask,kevlar k9 officers ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+311,mask,remember refuse wear mask one main reasons quarter million americans ,2020-11-18,0.0,0.804,0.196,-0.296,0.0,0.25,0.0,0.75,0.0
+312,mask,real medical mask mean ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+313,mask,covid virus killer abortion physician physically cuts baby ,2020-11-18,0.0,0.48,0.52,-0.7579,0.0,0.0,0.0,0.0,0.0
+314,mask,pretty sure face mask waxed whole fucking face ,2020-11-18,0.478,0.522,0.0,0.6705,0.17,0.33,0.33,0.17,0.0
+315,mask,yes wore damn mask got car ,2020-11-18,0.287,0.426,0.287,0.0,0.0,0.0,0.0,1.0,0.0
+316,mask,wear real mask yall ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+317,mask,using default mask unlock everything else yes ,2020-11-18,0.31,0.69,0.0,0.4019,0.0,0.0,0.0,1.0,0.0
+318,mask,mostly fact gave design mask thats making ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.5,0.25
+319,mask,really insisting mass infection amp deaths continue state sprea ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.33,0.33
+320,mask,become dumber society listen politician versus doctor comes ,2020-11-18,0.0,0.737,0.263,-0.3612,0.0,0.0,0.0,0.0,1.0
+321,mask,yes mention many times cursed telling people mask required th ,2020-11-18,0.231,0.769,0.0,0.4019,0.0,0.0,0.0,1.0,0.0
+322,mask,anyone iq 50 would wear mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+323,mask,thank always highest quality love fenty booty shortsleggings ,2020-11-18,0.528,0.472,0.0,0.7717,0.0,0.0,0.5,0.5,0.0
+324,mask,also resist face masks1 3 countries world even doctor ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+325,mask,single mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+326,mask,serious wont support mask wearing indulge selfish idiot attention seeking ,2020-11-18,0.0,0.376,0.624,-0.8384,0.0,0.0,0.0,1.0,0.0
+327,mask,democrats looking new faces thats nancy wears mask ,2020-11-18,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5,0.0
+328,mask,gaz doori unite2 fight corona wear mask fight corona ,2020-11-18,0.0,0.574,0.426,-0.6369,0.0,0.0,0.0,1.0,0.0
+329,mask,went crusade wearing mask zealots clu ,2020-11-18,0.0,0.735,0.265,-0.2023,0.0,0.5,0.0,0.5,0.0
+330,mask,staysafe protectyourfamily hotelbookingsinkisumu covidsecure catch corona breathing aerosols fr ,2020-11-18,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+331,mask,stupid found mask bitch ass home state allowed wher ,2020-11-18,0.0,0.359,0.641,-0.8934,0.0,0.0,0.0,1.0,0.0
+332,mask,current conservatives effort make america white try anything disenfranchise people co ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.67,0.0
+333,mask,really dont understand covid19 treated like ebola comes ppe prote ,2020-11-18,0.217,0.783,0.0,0.3612,0.0,0.0,0.0,0.0,1.0
+334,mask,im real estate industry thought would die much wearing mask daily ,2020-11-18,0.0,0.719,0.281,-0.5994,0.0,0.25,0.0,0.5,0.25
+335,mask,mask smells like cigarette ,2020-11-18,0.455,0.545,0.0,0.3612,0.0,0.5,0.0,0.5,0.0
+336,mask,jerry mask wearer also bad properly removing touching face ,2020-11-18,0.0,0.696,0.304,-0.5423,0.0,0.0,0.25,0.75,0.0
+337,mask,people show symptoms wear mask go yo day ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5,0.0
+338,mask,medical condition tried comply today struggling breath humidit ,2020-11-18,0.0,0.714,0.286,-0.4215,0.0,0.0,0.0,0.0,1.0
+339,mask,could keep smile face even covered mask many cool moments hearing another cool vers ,2020-11-18,0.392,0.608,0.0,0.7269,0.0,0.33,0.5,0.17,0.0
+340,mask,keep spread covid spr ,2020-11-18,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+341,mask,long proper distance people dont wear maskso facui ok ,2020-11-18,0.216,0.784,0.0,0.296,0.0,0.5,0.5,0.0,0.0
+342,mask,fast food worker today could day get sick die mc flurry thank wearing ,2020-11-18,0.127,0.508,0.365,-0.6908,0.0,0.0,0.5,0.5,0.0
+343,mask,jack skellington rorschach blot test nightmare christmas black cloth face mask 2 replaceable filters co ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.75,0.0
+344,mask,would happily wear mask keeps silent thr dumb things say ,2020-11-18,0.242,0.537,0.221,0.0772,0.0,0.2,0.2,0.2,0.4
+345,mask,every single one wearing mask go look livestreams ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+346,mask,suspicious af loves wear mask one recognize rough periods ,2020-11-18,0.28,0.53,0.189,0.296,0.0,0.25,0.25,0.5,0.0
+347,mask,trust dr fauci problem wearing mask help get covid control ,2020-11-18,0.382,0.446,0.172,0.5106,0.0,0.5,0.0,0.25,0.25
+348,mask,anti maskers know covid bad flu season ,2020-11-18,0.0,0.323,0.677,-0.8126,0.0,0.0,0.0,1.0,0.0
+349,mask,kudos wearing mask ,2020-11-18,0.623,0.377,0.0,0.5106,0.0,0.0,0.0,1.0,0.0
+350,mask,cannot tell many press conferences listen frikin dictator demanding everyon ,2020-11-18,0.0,0.826,0.174,-0.2263,0.0,0.5,0.0,0.5,0.0
+351,mask,corona getting worse eventho hate much need careful daily lives make ,2020-11-18,0.098,0.488,0.415,-0.7351,0.0,0.0,0.0,1.0,0.0
+352,mask,mask work stop tell lies ,2020-11-18,0.0,0.375,0.625,-0.6124,0.0,0.33,0.0,0.67,0.0
+353,mask,going need gov newsome speaker pelosi dems telling people wear mask lockdown ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.67,0.0
+354,mask,tweeting every catholic person grew complaining wearing mask ,2020-11-18,0.0,0.795,0.205,-0.2023,0.0,0.0,0.0,1.0,0.0
+355,mask,prevent infection given patient ya b ,2020-11-18,0.216,0.784,0.0,0.0258,0.0,1.0,0.0,0.0,0.0
+356,mask,stats relate decreasing chances community wears mask quarantine needed ,2020-11-18,0.184,0.816,0.0,0.2023,0.0,0.67,0.0,0.33,0.0
+357,mask,intelligent left wore damn mask ,2020-11-18,0.345,0.345,0.31,0.0772,0.0,0.0,0.0,1.0,0.0
+358,mask,covid fear bipartisan trump made fun biden online campaigning ,2020-11-18,0.244,0.519,0.237,0.0258,0.0,0.0,0.25,0.5,0.25
+359,mask,framed covid mask study annals reviewer 2 must demanded cute statement ,2020-11-18,0.233,0.62,0.147,0.2732,0.0,0.0,0.33,0.67,0.0
+360,mask,sigh tge virus also travel onin spittle droplets caught ,2020-11-18,0.121,0.879,0.0,0.0258,0.0,0.0,0.0,1.0,0.0
+361,mask,wear mask stay safe ,2020-11-18,0.492,0.508,0.0,0.4404,0.5,0.0,0.0,0.5,0.0
+362,mask,something worried right happens run medical professionals theyre ,2020-11-18,0.0,0.761,0.239,-0.296,0.0,0.5,0.0,0.5,0.0
+363,mask,allowed fly duluth without mask asking city ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+364,mask,fuck always accept mask hugs ,2020-11-18,0.513,0.177,0.31,0.3182,0.0,0.0,0.33,0.67,0.0
+365,mask,mixing different arguments try make point statistic ,2020-11-18,0.0,0.69,0.31,-0.4019,0.0,0.33,0.0,0.33,0.33
+366,mask,virus spread 10 pm 5 seems politicians dont know stup ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+367,mask,realized today havent left house since pandemic started havent actually seen someone wear mask real life gtgt ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.5,0.25
+368,mask,seeing 73 million vote trump agree many trump voters among p ,2020-11-18,0.217,0.783,0.0,0.3612,0.0,0.0,0.0,0.0,1.0
+369,mask,sorry loss sir wont see public without mask easy ,2020-11-18,0.0,0.5,0.5,-0.6131,0.0,0.0,0.0,1.0,0.0
+370,mask,compulsory mask wearing doubtless reduces freedom put behind bars two va ,2020-11-18,0.404,0.596,0.0,0.7269,0.0,0.25,0.0,0.75,0.0
+371,mask,dissecting systemic causes crime murder rates along systemic fai ,2020-11-18,0.0,0.461,0.539,-0.8481,0.0,0.0,0.0,1.0,0.0
+372,mask,fun speculate first glimpse light end dangerous tunnel safe dont ,2020-11-18,0.38,0.429,0.19,0.4767,0.0,0.5,0.25,0.0,0.25
+373,mask,apparently look pinoy w mask im wearing mask minah ah gitu ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+374,mask,say time ive around covid patient time ive go room covid pati ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5
+375,mask,sexiest man alive 2020 readers choice poll results hilarious ,2020-11-18,0.431,0.569,0.0,0.6486,0.5,0.0,0.5,0.0,0.0
+376,mask,dont think memes guy omegle joker cosplay getting popular good like ive see ,2020-11-18,0.519,0.481,0.0,0.8271,0.0,0.0,0.5,0.0,0.5
+377,mask,think girls agree taking mask get car feeling taking bra get home ,2020-11-18,0.286,0.714,0.0,0.4588,0.0,0.0,0.0,0.33,0.67
+378,mask,top 6 foot peel mask tik tok taehyung𓄂 mamamoo fleets playstation lekki massacre mewlions astro ,2020-11-18,0.122,0.878,0.0,0.2023,0.0,0.0,0.0,0.5,0.5
+379,mask,kihyun says wear mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5
+380,mask,shoji would look adorable without mask okay ,2020-11-18,0.324,0.507,0.169,0.3682,0.0,0.33,0.33,0.33,0.0
+381,mask,masks respiratory infections covid 19 virus attacks respiratory system ,2020-11-18,0.0,0.734,0.266,-0.4404,0.0,0.5,0.0,0.5,0.0
+382,mask,trying drink starbucks mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+383,mask,horses mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+384,mask,yall pressed isnt taylor lautner im mad mask original costu ,2020-11-18,0.17,0.593,0.237,-0.2263,0.33,0.33,0.0,0.33,0.0
+385,mask,wait mean dont want locked home wearing mask ,2020-11-18,0.0,0.851,0.149,-0.0572,0.0,0.0,0.0,0.67,0.33
+386,mask,5100 deaths population town live entire toens worth people dead wear mask ,2020-11-18,0.117,0.617,0.265,-0.5267,0.0,0.6,0.0,0.4,0.0
+387,mask,fuck vaccine wore mask way allow anyone inject foreign matter body ,2020-11-18,0.207,0.552,0.241,-0.3612,0.0,0.33,0.33,0.33,0.0
+388,mask,wearing mask totally alone photo op protects one like wearing ,2020-11-18,0.341,0.497,0.163,0.3626,0.0,0.0,0.33,0.67,0.0
+389,mask,coronavirus total fatalities way 25000 wear mask social distance suffer lockdowns obey laws ,2020-11-18,0.0,0.598,0.402,-0.8126,0.0,0.33,0.0,0.33,0.33
+390,mask,highest positivity rate country mask doesnt feel good anyone youre ,2020-11-18,0.241,0.584,0.176,0.2249,0.0,0.33,0.33,0.33,0.0
+391,mask,bitches think self care throwing face mask drinking water sleeping eating right promoti ,2020-11-18,0.177,0.608,0.215,-0.1779,0.0,0.5,0.0,0.33,0.17
+392,mask,dont understand anti mask sentiment neighbor needs shelter storm would give ,2020-11-18,0.164,0.836,0.0,0.2411,0.0,0.4,0.0,0.6,0.0
+393,mask,need proper mask try one blue surgical masks make buy one c ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.8,0.0
+394,mask,unfortunately im husband went doctor wore mask daughter terrified ,2020-11-18,0.0,0.522,0.478,-0.7506,0.0,0.33,0.0,0.67,0.0
+395,mask,possible use n95 kn95 surgical mask instead cloth maskdesigners mask provide ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.67,0.0
+396,mask,need good reusable mask designed rn tested effective ,2020-11-18,0.5,0.5,0.0,0.7184,0.0,0.0,0.33,0.33,0.33
+397,mask,everyone please wear mask go michigan meet wife ,2020-11-18,0.247,0.753,0.0,0.3182,0.0,0.0,0.0,1.0,0.0
+398,mask,yes stay home safety must wear mask outside fight hard hope less virus next 2021 ,2020-11-18,0.375,0.446,0.179,0.6597,0.25,0.25,0.0,0.5,0.0
+399,mask,plus careful high risk barely leave house absolutely wear mask car ,2020-11-18,0.211,0.625,0.164,-0.1045,0.0,0.5,0.0,0.5,0.0
+400,mask,unfortunately look whether wearing mask protects people mask wearer ,2020-11-18,0.197,0.598,0.205,-0.0258,0.0,0.2,0.2,0.6,0.0
+401,mask,sometimes guests yes indoors place people imm ,2020-11-18,0.31,0.69,0.0,0.4019,0.0,0.5,0.0,0.5,0.0
+402,mask,isnt wearing mask feel unsafe dangerous rhetoric slamming ,2020-11-18,0.0,0.693,0.307,-0.4767,0.0,0.67,0.0,0.33,0.0
+403,mask,state almost 6 positivity rate people wont wear mask theres ,2020-11-18,0.273,0.727,0.0,0.4601,0.0,0.33,0.0,0.67,0.0
+404,mask,perhaps correct dr chadha claiming masks less n 99 wont filter inhalation airbo ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5
+405,mask,,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+406,mask,next person see wearing mask nose gonna catch hands covid ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+407,mask,monitoring today yet detected illegal activity shadi methods successful ,2020-11-18,0.264,0.486,0.25,0.0516,0.0,0.0,0.0,0.0,0.0
+408,mask,happens beloved ones end hospitalized dont come back home mask gather small ,2020-11-18,0.231,0.769,0.0,0.5106,0.0,0.33,0.0,0.67,0.0
+409,mask,someone covid sits room 8 hrs without mask new person comes space ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.33,0.33
+410,mask,thank love mask panicattacking anxiety podcast patreon ,2020-11-18,0.54,0.323,0.137,0.7184,0.0,0.0,0.33,0.67,0.0
+411,mask,outrageous end vast amounts public believe covid hoax electi ,2020-11-18,0.0,0.579,0.421,-0.6249,0.0,0.0,0.0,0.0,1.0
+412,mask,time l face mask someone random happens knock door looking like ,2020-11-18,0.217,0.783,0.0,0.3612,0.0,0.0,0.0,1.0,0.0
+413,mask,always mask go public ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+414,mask,covid 19 half face mask bike mask sports mask anti dust outdoor sports mask carbon ,2020-11-18,0.0,0.859,0.141,-0.3182,0.2,0.0,0.0,0.8,0.0
+415,mask,everyone wear mask masks save lives covid19 𝗧𝗵𝗶𝘀 𝗰𝗹𝗮𝗶𝗺 𝗶𝘀 𝗱𝗶𝘀𝗽𝘂𝘁𝗲𝗱 ,2020-11-18,0.242,0.758,0.0,0.4939,0.0,0.0,0.0,1.0,0.0
+416,mask,police going mask buy mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.33,0.0,0.67,0.0
+417,mask,mask good orange man bad ,2020-11-18,0.309,0.319,0.372,-0.1531,0.0,0.0,0.33,0.67,0.0
+418,mask,thing mutates saw news nurse second time within time period suppose ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5
+419,mask,buy amazon gt ,2020-11-18,0.792,0.208,0.0,0.4215,0.0,0.0,0.0,0.0,0.0
+420,mask,wear mask someone told virus might killed 240k people im ,2020-11-18,0.0,0.667,0.333,-0.6705,0.25,0.0,0.0,0.5,0.25
+421,mask,buy amazon gt ,2020-11-18,0.792,0.208,0.0,0.4215,0.0,0.0,0.0,0.0,0.0
+422,mask,miss watch amitabh bachchan swasthya mantra wear mask social distance wash hands regular ,2020-11-18,0.0,0.882,0.118,-0.1531,0.0,0.4,0.0,0.4,0.2
+423,mask,pro lifers oh theyre advocating gun rights cheerin ,2020-11-18,0.0,0.745,0.255,-0.34,0.0,1.0,0.0,0.0,0.0
+424,mask,buy amazon gt ,2020-11-18,0.792,0.208,0.0,0.4215,0.0,0.0,0.0,0.0,0.0
+425,mask,put mask get home island ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+426,mask,study measured masks effectiveness preventing wearer mask getting infected ,2020-11-18,0.0,0.619,0.381,-0.5106,0.0,0.0,0.0,1.0,0.0
+427,mask,finally got rain mask wanted go bed laughing loud mortal kombat11 xbox share ,2020-11-18,0.329,0.671,0.0,0.6597,0.0,0.67,0.0,0.33,0.0
+428,mask,mooiecoofficial product masker organik face spray saffron sleeping mask saffron cottron package yuk ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+429,mask,mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+430,mask,honestly youre part socially distance wear fucking mask youre trying downplay ,2020-11-18,0.231,0.769,0.0,0.4588,0.0,0.0,0.67,0.33,0.0
+431,mask,spend dollars mask period ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+432,mask,would settle wearing mask close contact vulnerable veterans ,2020-11-18,0.0,0.787,0.213,-0.2263,0.0,0.25,0.25,0.5,0.0
+433,mask,yea public health emergency refuse anything schools still open ,2020-11-18,0.0,0.593,0.407,-0.5859,0.0,0.5,0.0,0.25,0.25
+434,mask,mask wearers immunocompromised ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+435,mask,good morning everyone hope well hope great day awesome day stay safe ,2020-11-18,0.814,0.186,0.0,0.9678,0.12,0.25,0.5,0.0,0.12
+436,mask,virus appeals public please use mask remove sores home avoid sick ,2020-11-18,0.146,0.506,0.348,-0.4939,0.2,0.0,0.0,0.8,0.0
+437,mask,wear mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+438,mask,wont lie loove makeup yet like competition days could put best mask hide true self ,2020-11-18,0.428,0.495,0.077,0.8316,0.17,0.17,0.17,0.33,0.17
+439,mask,omg foot peel mask far really working amp first day ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.29,0.14,0.14,0.43
+440,mask,everything great mask earrings phone case u adorable ,2020-11-18,0.593,0.407,0.0,0.8074,0.0,0.0,0.5,0.5,0.0
+441,mask,know people afraid pandemic option stay home ,2020-11-18,0.0,0.0,0.0,0.0,0.33,0.33,0.0,0.33,0.0
+442,mask,plus im lazy keep wearing mask worrying ,2020-11-18,0.0,0.505,0.495,-0.5994,0.0,0.0,0.0,1.0,0.0
+443,mask,even simple act breathing releases particles mask worn mouth nose helps keep ,2020-11-18,0.176,0.676,0.149,0.1027,0.0,0.5,0.0,0.33,0.17
+444,mask,alright gotta share happened bc im fucking triggered rn 1 clock fucking morning walk ,2020-11-18,0.276,0.724,0.0,0.4939,0.0,0.0,1.0,0.0,0.0
+445,mask,yeah nothing like destroying economy instead suffer long drawn decline death ri ,2020-11-18,0.237,0.324,0.44,-0.6582,0.0,1.0,0.0,0.0,0.0
+446,mask,अपन मसक पहनग इडय करन स लडग इडय important wear mask properly amp use ,2020-11-18,0.13,0.87,0.0,0.2023,0.0,0.0,0.67,0.33,0.0
+447,mask,mask service ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+448,mask,making groceries thought week remembered mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.67,0.33
+449,mask,hate white girl dreads walks store like know believe vaccines put damn mask ffs ,2020-11-18,0.104,0.373,0.523,-0.8779,0.0,0.2,0.0,0.6,0.2
+450,mask,nadler isnt going shit sad corrupt little man c ,2020-11-18,0.477,0.523,0.0,0.6681,0.0,0.5,0.0,0.25,0.25
+451,mask,fuck man mask around wrist probably make inside store fucking cop sh ,2020-11-18,0.0,0.759,0.241,-0.5423,0.0,0.33,0.33,0.33,0.0
+452,mask,2020 still hard time deciding get annual darwin award appears ,2020-11-18,0.271,0.62,0.109,0.4767,0.25,0.25,0.0,0.5,0.0
+453,mask,put mask back done eating preparing food wear mask gloves even look som ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.25,0.0,0.75,0.0
+454,mask,mask casket bitch ass ,2020-11-18,0.0,0.215,0.785,-0.8074,0.0,0.0,0.0,1.0,0.0
+455,mask,dunno 5 10 chance dying icu respiratory distress according vaccine effe ,2020-11-18,0.149,0.597,0.254,-0.34,0.0,0.67,0.0,0.33,0.0
+456,mask,normal turned head lifting blood splattered mask waved evan blood even ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.25,0.25
+457,mask,really hope someone creates law could sue strangers dont want wear mask talking ,2020-11-18,0.331,0.596,0.073,0.6525,0.0,0.25,0.0,0.25,0.5
+458,mask,toasted bread face mask brown couch christmas decoration ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+459,mask,wait starting friday walk outside take trash without maskand feds roll give ticket ,2020-11-18,0.0,0.0,0.0,0.0,0.33,0.33,0.0,0.0,0.33
+460,mask,linda reasoning trump republicans mask usage ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.67,0.33
+461,mask,well call someone maintenance wear mask w ,2020-11-18,0.296,0.704,0.0,0.2732,0.0,0.0,0.0,1.0,0.0
+462,mask,prefer friends relatives alive wear mask dirty choice ,2020-11-18,0.419,0.368,0.213,0.4215,0.4,0.0,0.4,0.2,0.0
+463,mask,dr amy williams mayo clinic dean clinical practice said 93 percent staff contracted vi ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.0,0.5
+464,mask,haha guy mask protect ,2020-11-18,0.737,0.263,0.0,0.6808,0.0,0.0,0.5,0.5,0.0
+465,mask,julia please talk mask situation people touching dirty germ ridden ,2020-11-18,0.174,0.606,0.22,-0.1531,0.2,0.2,0.0,0.6,0.0
+466,mask,hate bitches wont wear masks arent afraid virus couple months ago fam ,2020-11-18,0.0,0.568,0.432,-0.8225,0.0,0.33,0.0,0.67,0.0
+467,mask,senka face mask go update senka face masks arrived usa face masks delivered ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+468,mask,thats problem people due political stance made think sign strength ,2020-11-18,0.23,0.576,0.194,0.128,0.0,0.5,0.0,0.25,0.25
+469,mask,make sure stick moh guidelineswear mask public places eu amref covid19 ke ,2020-11-18,0.173,0.827,0.0,0.3182,0.0,0.6,0.0,0.4,0.0
+470,mask,need see danish study n95 amp surgical mask works 90 ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+471,mask,one thing note flu season well hospital beds ,2020-11-18,0.196,0.561,0.243,-0.128,0.0,0.0,0.0,0.0,1.0
+472,mask,wearing mask surrender freedom affirmation enslavement ,2020-11-18,0.457,0.543,0.0,0.6369,0.0,0.0,0.0,1.0,0.0
+473,mask,kidding american stupid enough believe b ,2020-11-18,0.179,0.385,0.436,-0.4588,0.0,0.0,1.0,0.0,0.0
+474,mask,look dumb looks wear ur mask right ,2020-11-18,0.0,0.645,0.355,-0.5106,0.0,0.5,0.0,0.5,0.0
+475,mask,well ca get numbers trump acknowledges virus needs tell ,2020-11-18,0.208,0.792,0.0,0.2732,0.0,0.33,0.0,0.33,0.33
+476,mask,needto shave face actually hurting bc mask ,2020-11-18,0.0,0.69,0.31,-0.4019,0.0,0.0,0.0,0.67,0.33
+477,mask,virus appeals public please use mask remove sores home avoid sick people keepin ,2020-11-18,0.129,0.562,0.309,-0.4939,0.2,0.0,0.0,0.8,0.0
+478,mask,yes cdc make public wearing ,2020-11-18,0.403,0.597,0.0,0.4019,0.0,0.0,0.0,1.0,0.0
+479,mask,brandon smith time americans rebel lockdowns mask mandates amp forced vaccination zero ,2020-11-18,0.0,0.685,0.315,-0.5574,0.33,0.33,0.0,0.33,0.0
+480,mask,went mask would believed jabbawockee ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.67,0.0,0.33,0.0
+481,mask,critics quick note studys limitations among design depended heavily pa ,2020-11-18,0.0,0.804,0.196,-0.296,0.33,0.0,0.0,0.33,0.33
+482,mask,new study shows mask mandates st louis st louis county drastically reduced virus spr ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+483,mask,qa new guys loreal clay mask 80k bisa nego shopee request ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+484,mask,wear mask wash hands keep precautions benefits swasthya mantra ,2020-11-18,0.245,0.755,0.0,0.3818,0.0,0.67,0.0,0.33,0.0
+485,mask,mask mandate insane know definitely voting unconsti ,2020-11-18,0.26,0.481,0.26,0.0,0.0,0.33,0.0,0.33,0.33
+486,mask,would repeat test amp see get test 2 results remember asymptoma ,2020-11-18,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+487,mask,bluee doo moree brotherr past one week unga edits dhan wa dp ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+488,mask,spend money coffee shop wearing mask correctly nose ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+489,mask,anti maskers 98 survival rate um 2 328 americans 6 million wear mask ,2020-11-18,0.0,0.813,0.187,-0.3182,0.0,0.5,0.0,0.5,0.0
+490,mask,ask look political affiliation thread look top 10 states w ,2020-11-18,0.184,0.816,0.0,0.2023,0.0,0.33,0.0,0.33,0.33
+491,mask,supposed situation gas mask broken still screen ,2020-11-18,0.0,0.659,0.341,-0.4767,0.0,0.5,0.0,0.25,0.25
+492,mask,one best rationalizations ive heard far requiring mask valid useful ,2020-11-18,0.47,0.53,0.0,0.7964,0.0,0.33,0.0,0.33,0.33
+493,mask,selfcare night consists taking hot shower rampb shaving whole body hair mask amp putting ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.17,0.0,0.5,0.33
+494,mask,laugh wait mask lawsuits ,2020-11-18,0.5,0.278,0.222,0.4588,0.0,0.0,0.0,0.5,0.5
+495,mask,forget wear mask times possible ,2020-11-18,0.0,0.678,0.322,-0.2263,0.5,0.0,0.0,0.5,0.0
+496,mask,western neb went torrington last week wore mas ,2020-11-18,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+497,mask,cough sneeze germs throughout daily life lol people ,2020-11-18,0.286,0.714,0.0,0.4215,0.0,1.0,0.0,0.0,0.0
+498,mask,uh getting attention pennsylvania forces wear mask go someone house ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5,0.0
+499,mask,yo rq get mask ,2020-11-18,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
